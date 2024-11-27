@@ -21,5 +21,5 @@ You can run each program in your IDE or using the C# compiler (csc).
 Modify and experiment with the code to get a better understanding of each concept.
 
 ## **Credits**
-Author: Mutyala Siddhartha Koushik
-Tools Used: C# programming language, Visual Studio
+-Author: Mutyala Siddhartha Koushik.
+-Tools Used: C# programming language, Visual Studio
